@@ -48,15 +48,15 @@ Soon available on Google Play!
 ---
 
 ## 📸 **Screenshots**  
-| **Home Screen** | **Event Details** | **Create Event** |  
-|------------------|-------------------|------------------|  
-| _[Placeholder for Screenshot]_ | _[Placeholder for Screenshot]_ | _[Placeholder for Screenshot]_ |  
+| **Home Screen**              | **Event Details**           | **Create Event**            | **Sign Up**                |  
+|-------------------------------|------------------------------|------------------------------|-----------------------------|  
+| ![Home Screen](img/IMG_6831.png) | ![Event Details](img/IMG_6834.png) | ![Create Event](img/IMG_6833.png) | ![Sign Up](img/IMG_6832.png) |  
 
 ---
 
 ## 📊 **System Architecture**  
 ### **Client-Server Integration**  
-_[Insert Block Diagram Here]_  
+![System Architecture](img/block-diagram.png)
 
 This diagram illustrates how the app communicates with Firebase to handle user authentication, store event data, and synchronize changes in real-time.  
 ---
