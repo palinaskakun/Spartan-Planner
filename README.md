@@ -48,10 +48,13 @@ Soon available on Google Play!
 ---
 
 ## 📸 **Screenshots**  
-| **Home Screen**              | **Event Details**           | **Create Event**            | **Sign Up**                |  
-|-------------------------------|------------------------------|------------------------------|-----------------------------|  
-| ![Home Screen](img/main.png) | ![Event Details](img/events.png) | ![Create Event](img/add.png) | ![Sign Up](img/signup.png) |  
+| **Home Screen**              | **Current Events**           | **Event Details**           | 
+|-------------------------------|------------------------------|------------------------------|
+| ![Home Screen](img/main.png) | ![Event Details](img/events.png) | ![Event Details](img/event.png)  |
 
+  | **Create Event**       | **Login**                | **Sign Up**                |  
+|-------------------------------|------------------------------|-----------------------------|  
+ |![Create Event](img/add.png) | ![Login Screen](img/login.png) | ![Sign Up](img/signup.png) |  
 ---
 
 ## 📊 **System Architecture**  
