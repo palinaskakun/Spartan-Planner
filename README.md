@@ -50,7 +50,7 @@ Soon available on Google Play!
 ## 📸 **Screenshots**  
 | **Home Screen**              | **Current Events**           | **Event Details**           | 
 |-------------------------------|------------------------------|------------------------------|
-| ![Home Screen](img/main.png) | ![Event Details](img/events.png) | ![Event Details](img/event.png)  |
+| ![Home Screen](img/main-s.png) | ![Event Details](img/events.png) | ![Event Details](img/event.png)  |
 
   | **Create Event**       | **Login**                | **Sign Up**                |  
 |-------------------------------|------------------------------|-----------------------------|  
