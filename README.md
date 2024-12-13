@@ -50,11 +50,15 @@ Soon available on Google Play!
 ## 📸 **Screenshots**  
 | **Home Screen**              | **Current Events**           | **Event Details**           | 
 |-------------------------------|------------------------------|------------------------------|
-| ![Home Screen](img/main-s.png) | ![Event Details](img/events.png) | ![Event Details](img/event.png)  |
+| ![Home Screen](img/main-s.png) | ![Event Details](img/events.png) | ![Event Details](img/fatm.png)  |
 
-  | **Create Event**       | **Login**                | **Sign Up**                |  
-|-------------------------------|------------------------------|-----------------------------|  
- |![Create Event](img/addev.png) | ![Login Screen](img/logn.png) | ![Sign Up](img/signup1.png) |  
+| **Login**                | **Sign Up**                |  
+|------------------------------|-----------------------------|  
+| ![Login Screen](img/logn.png) | ![Sign Up](img/signup1.png) |  
+
+   | **Edit Event**       | **Add New Event**                | **Show Past Events**                |
+|-------------------------------|------------------------------|------------------------------|
+ |![Edit Event](img/edite.png) | ![Add Event](img/addev.png) | ![Show past events](img/pe.png) | 
 ---
 
 ## 📊 **System Architecture**  
