@@ -54,7 +54,7 @@ Soon available on Google Play!
 
   | **Create Event**       | **Login**                | **Sign Up**                |  
 |-------------------------------|------------------------------|-----------------------------|  
- |![Create Event](img/add.png) | ![Login Screen](img/login.png) | ![Sign Up](img/signup.png) |  
+ |![Create Event](img/addev.png) | ![Login Screen](img/logn.png) | ![Sign Up](img/signup1.png) |  
 ---
 
 ## 📊 **System Architecture**  
